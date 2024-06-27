@@ -1,0 +1,21 @@
+# Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+*.venv
+*.env
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Sensitive files
+key.key
+user.json
