@@ -44,8 +44,8 @@ source venv/bin/activate
 1. **Clone the Repository**: First, clone the repository to your local machine using Git.
 
     ```bash
-    git clone <repository-url>
-    cd <repository-name>
+git clone https://github.com/KernFerm/Pass-Gen
+cd Pass-Gen
     ```
 
 2. **Create a Virtual Environment**: It's recommended to create a virtual environment for Python projects. This keeps dependencies required by different projects separate. If you're using `pipenv`, you can skip to step 3.
