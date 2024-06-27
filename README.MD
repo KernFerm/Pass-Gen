@@ -1,3 +1,5 @@
+## PLEASE READ EVERYTHING ON THE README.MD INCLUDING THE LINKS BELOW TO THE .MD AND LICENSE FILE
+
 # Secure Password Manager
 
 This Secure Password Manager is a Python application designed to securely encrypt and store passwords using AES encryption. It provides functionalities to generate or load an existing AES encryption key, encrypt and save passwords with optional expiration dates, and decrypt passwords.
