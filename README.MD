@@ -122,3 +122,11 @@ python main.py
 ```
 
 Replace `main.py` with the appropriate script name if your entry point is different. Ensure you follow the usage examples provided above to interact with the application correctly.
+
+----
+
+## [CODE_OF_CONDUCT.md](https://github.com/KernFerm/Pass-Gen/blob/main/CODE_OF_CONDUCT.md)
+
+## [LICENSE](https://github.com/KernFerm/Pass-Gen/blob/main/LICENSE)
+
+## [CONTRIBUTING.md](https://github.com/KernFerm/Pass-Gen/blob/main/CONTRIBUTING.md)
