@@ -69,7 +69,7 @@ source venv/bin/activate
 3. **Install Dependencies**: Install the `cryptography` library within your virtual environment.
 
     ```bash
-    pip install cryptography
+    run the requirements.bat
     ```
 
     If you're using `pipenv`, you can install all dependencies by simply running:
