@@ -20,7 +20,7 @@ To use the Secure Password Manager, you need to have Python and pip installed on
 
 1. Install virtualenv if you haven't already:
 
-```bash
+```
 pip install virtualenv
 ```
 ### Create a virtual environment in your project directory:
@@ -62,7 +62,7 @@ source venv/bin/activate
     .\venv\Scripts\activate
    ```
  - On Unix or MacOS:
-   ```bash
+   ```
    source venv/bin/activate
    ```
 
@@ -72,13 +72,13 @@ source venv/bin/activate
   run the requirements.bat
   ```
 
-    If you're using `pipenv`, you can install all dependencies by simply running:
+ If you're using `pipenv`, you can install all dependencies by simply running:
 
   ```
   pipenv install
   ```
 
-    Then, activate the `pipenv` shell:
+ Then, activate the `pipenv` shell:
 
    ```
    pipenv shell
