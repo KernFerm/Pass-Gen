@@ -45,44 +45,44 @@ source venv/bin/activate
 
 1. **Clone the Repository**: First, clone the repository to your local machine using Git.
 
-    ```bash
-    git clone https://github.com/KernFerm/Pass-Gen
-    cd Pass-Gen
-    ```
+ ```
+ git clone https://github.com/KernFerm/Pass-Gen
+ cd Pass-Gen
+ ```
 
 2. **Create a Virtual Environment**: It's recommended to create a virtual environment for Python projects. This keeps dependencies required by different projects separate. If you're using `pipenv`, you can skip to step 3.
 
-    ```bash
-    python -m venv venv
-    ```
+ ```
+ python -m venv venv
+ ```
 
-    - Activate the virtual environment:
-        - On Windows:
-            ```bash
-            .\venv\Scripts\activate
-            ```
-        - On Unix or MacOS:
-            ```bash
-            source venv/bin/activate
-            ```
+ - Activate the virtual environment:
+ - On Windows:
+   ```
+    .\venv\Scripts\activate
+   ```
+ - On Unix or MacOS:
+   ```bash
+   source venv/bin/activate
+   ```
 
 3. **Install Dependencies**: Install the `cryptography` library within your virtual environment.
 
-    ```bash
-    run the requirements.bat
-    ```
+  ```
+  run the requirements.bat
+  ```
 
     If you're using `pipenv`, you can install all dependencies by simply running:
 
-    ```bash
-    pipenv install
-    ```
+  ```
+  pipenv install
+  ```
 
     Then, activate the `pipenv` shell:
 
-    ```bash
-    pipenv shell
-    ```
+   ```
+   pipenv shell
+   ```
 
 ### Usage
 
