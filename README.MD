@@ -48,7 +48,7 @@ source venv/bin/activate
 ### Setup and Installation
 
 1. **Clone the Repository**: First, clone the repository to your local machine using Git.
-
+  - make sure to make a folder on `Desktop` then `CD` it in `CMD.exe` then do the `Git Clone`.
  ```
  git clone https://github.com/KernFerm/Pass-Gen
  cd Pass-Gen
